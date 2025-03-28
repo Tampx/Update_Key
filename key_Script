@@ -1,4 +1,4 @@
-local Key_X = 'TamPx'
+local Key_X = 'TamPxL'
 function loginInvoke(a)
 	if a[1] == Key_X then
 		return true
