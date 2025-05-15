@@ -1,4 +1,4 @@
-local Key_X = 'TamPxi'
+ZvwLP0L1hrLxLo = 'TamPxi'
 ZvwLP6L9hyLxLh = 'AGM'
 ZvwLP6L9hyLxLi = 'https://www.google.com'
 ZvwLP6L9hyLxLz = '11/05/2029'
