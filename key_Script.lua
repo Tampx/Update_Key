@@ -4,7 +4,7 @@ ZvwLP6L9hyLxLz = '11/05/2029'
 --link key
 ZvwLP6L9hyLxLi = 'https://www.google.com'
 function loginInvoke(a)
-	if a[1] == Key_X then
+	if a[1] == ZvwLP0L1hrLxLo then
 		return true
 	else
 		return false
